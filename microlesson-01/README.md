@@ -1,11 +1,11 @@
 <h1>
-  <span class="headline">[ Data Security, Privacy, and Bias Considerations in AI]</span>
+  <span class="headline">[Data Governance and Security in AI]</span>
   <span class="subhead"></span>
 </h1>
 
 
 
-# **Course Title: Data Governance and Security in AI**  
+# ** Data Security, Privacy, and Bias Considerations in AI**  
 **Duration:** 90 Minutes  
 
  [**Learning objective:**](#learning-objective) 
