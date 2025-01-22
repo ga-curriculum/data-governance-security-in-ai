@@ -626,11 +626,11 @@ Key trends likely to shape AI governance in the next decade include:
 - **Secure AI Systems:** Advanced defenses against cyber and quantum threats.  
 
 
-# Deloitte's Trustworthy AI Framework 
+## 9 Deloitte's Trustworthy AI Framework 
 
-[Source 5 ](https://eulisaroundtable.eu/eulisa_content/uploads/2024/11/deloitte-industry-roundtable-trustworthy-ai-framework.pdf)
+[Source  ](https://eulisaroundtable.eu/eulisa_content/uploads/2024/11/deloitte-industry-roundtable-trustworthy-ai-framework.pdf)
 
-[Source 7 ](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/deloitte-analytics/us-ai-institute-trustworthy-ai-in-practice.pdf)
+[Source  ](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/deloitte-analytics/us-ai-institute-trustworthy-ai-in-practice.pdf)
 
 
-[Source 7 ](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/deloitte-analytics/us-ai-institute-ai-bill-of-rights-new.pdf)
+[Source  ](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/deloitte-analytics/us-ai-institute-ai-bill-of-rights-new.pdf)
