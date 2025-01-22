@@ -1,8 +1,8 @@
 <h1>
   <span class="headline">[Data Governance and Security in AI]</span>
-  
-"<span class="</span>
+<span class="subhead"> </span>
 </h1>
+
 
 **Duration:** 90 Minutes  
 
