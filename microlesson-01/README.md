@@ -37,8 +37,7 @@ Throughout the AI lifecycle, data security aims to shield data from misuse, brea
    - **Monitoring:** Keep an eye out for odd activities in AI pipelines.  
    - **Incident Plan:** Create a strong incident response plan for security risks unique to AI.
   
- ![Machine Learning Applications in Cyber Security](htt ps://git.generalassemb.ly/modular-courses/ai-solution-architect-deloitte-ENT/blob/main/_images/Screenshot%202025-01-22%20102524.png)
-
+ ![Machine Learning Applications in Cyber Security](https://git.generalassemb.ly/modular-courses/ai-solution-architect-deloitte-ENT/blob/main/_images/Screenshot%202025-01-22%20102524.png)
  [Machine Learning Applications in Cyber Security Source ](https://www.researchgate.net/publication/364126309_Artificial_Intelligence_in_Cyber_Security)
 
  **AI Enhancements in Data Privacy and Security**
