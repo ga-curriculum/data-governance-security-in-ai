@@ -6,6 +6,17 @@
 **Learning objective:** By the end of this lesson, students will be able to tktk
 #  Data Security, Privacy, and Bias Considerations in AI
 --
+**Components of the Data Governance Framework**
+
+| **Organizational Bodies and Policies** | **Standards and Processes**                            | **Data Governance Technology**           |
+|----------------------------------------|-------------------------------------------------------|------------------------------------------|
+| Governance Structure                   | Data Definition and Standard (Metadata Management)    | Metadata Repository                      |
+| Data Custodianship                     | Third-Party Data Extract                              | Data Profiling Tool                      |
+| User Group Charter                     | Metrics Development and Monitoring                   | Data Cleansing Tool                      |
+| Decision Rights                        | Data Profiling                                        |                                          |
+| Issue Escalation Process               | Data Cleansing                                        |                                          |
+[ Components of the Data Governance Framework Source ](https://www.researchgate.net/publication/228966685_The_need_for_data_governance_A_case_study)
+
 ## **1. AI Data Security**
 
 Throughout the AI lifecycle, data security aims to shield data from misuse, breaches, and illegal access.
