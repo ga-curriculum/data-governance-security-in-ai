@@ -141,6 +141,11 @@ AI bias must be identified and mitigated since it can produce unfair or biased r
   - Security protocols must ensure that model updates and training data integrity are not compromised, as altered data can introduce bias.  
 
 --- 
-#Deloitte's Trustworthy AI Framework 
-[Source 5 ](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/deloitte-analytics/us-ai-institute-trustworthy-ai-in-practice.pdf)
-[Source 6 ](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/deloitte-analytics/us-ai-institute-ai-bill-of-rights-new.pdf)
+# Deloitte's Trustworthy AI Framework 
+
+[Source 5 ](https://eulisaroundtable.eu/eulisa_content/uploads/2024/11/deloitte-industry-roundtable-trustworthy-ai-framework.pdf)
+
+[Source 7 ](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/deloitte-analytics/us-ai-institute-trustworthy-ai-in-practice.pdf)
+
+
+[Source 7 ](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/deloitte-analytics/us-ai-institute-ai-bill-of-rights-new.pdf)
