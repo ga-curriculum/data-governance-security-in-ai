@@ -43,7 +43,7 @@ By the end of this session, participants will be able to:
    - Understand the role of AI in enhancing governance processes.  
    - Evaluate the impacts of quantum computing and blockchain on AI security.
 
-9  **Particiants will understand  Deloitte's Trustworthy AI framework.**
+ 9  **Particiants will understand  Deloitte's Trustworthy AI framework.**
  
 
 This session aims to equip participants with the knowledge and skills required to effectively address data governance and security challenges in AI systems while adhering to ethical, legal, and societal standards.
