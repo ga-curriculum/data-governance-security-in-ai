@@ -43,7 +43,7 @@ Throughout the AI lifecycle, data security aims to shield data from misuse, brea
 
 ## **2. AI Data Privacy**
 
-AI privacy considerations include safeguarding user data and making sure privacy laws like the CCPA, GDPR, and HIPAA are followed.
+AI privacy considerations include safeguarding user data and making sure privacy laws like the CCPA: California Consumer Privacy Act,GDPR: General Data Protection Regulation,HIPAA: Health Insurance Portability and Accountability Actare followed.
 
 ### **Important Procedures:**
 1. **Data Anonymisation and Masking:**
