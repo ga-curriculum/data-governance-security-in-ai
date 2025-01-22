@@ -4,12 +4,8 @@
 </h1>
 
 **Learning objective:** By the end of this lesson, students will be able to tktk
-# **Considerations for Data Security, Privacy, and Bias in AI**
-
-The need to address important issues, including bias, privacy, and data security, has increased as a result of the integration of AI systems into numerous fields. These components are essential to guaranteeing that AI systems are reliable, moral, and in line with legal requirements.
-
----
-
+# ** Data Security, Privacy, and Bias Considerations in AI**
+--
 ## **1. AI Data Security**
 
 Throughout the AI lifecycle, data security aims to shield data from misuse, breaches, and illegal access.
