@@ -6,6 +6,8 @@
 **Learning objective:** By the end of this lesson, students will be able to tktk
 
 
+
+
 **Components of the Data Governance Framework**
 
 | **Organizational Bodies and Policies** | **Standards and Processes**                            | **Data Governance Technology**           |
