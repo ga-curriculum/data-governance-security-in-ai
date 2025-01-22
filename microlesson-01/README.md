@@ -1,10 +1,10 @@
 <h1>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">[ Data Security, Privacy, and Bias Considerations in AI]</span>
   <span class="subhead">tktk Microlesson 01</span>
 </h1>
 
 **Learning objective:** By the end of this lesson, students will be able to tktk
-# ** Data Security, Privacy, and Bias Considerations in AI**
+#  Data Security, Privacy, and Bias Considerations in AI
 --
 ## **1. AI Data Security**
 
