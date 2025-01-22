@@ -13,22 +13,23 @@
 # **Table of Contents**
 
 1. **[Introduction to Data Governance in AI](https://git.generalassemb.ly/modular-curriculum-all-courses/data-governance-security-in-ai/edit/main/microlesson-01/README.md)**  
-   - A. Definition and Scope of Data Governance in AI  
-   - B. Key Principles and Frameworks  
-   - C. Role of Governance in AI Lifecycle Management  
-   - D. Impact of Poor Governance on AI Outcomes  
-   - E. Challenges in Applying Traditional Governance to AI  
-   - F. Alignment of AI Governance with Organizational Goals  
-   - G. Emerging Trends in AI Governance  
+   - A.[Definition and Scope of Data Governance in AI](https://git.generalassemb.ly/modular-curriculum-all-courses/data-governance-security-in-ai/edit/main/microlesson-01/README.md) 
+   - B. [Key Principles and Frameworks](https://git.generalassemb.ly/modular-curriculum-all-courses/data-governance-security-in-ai/edit/main/microlesson-01/README.md)  
+   - C. [Role of Governance in AI Lifecycle Management](https://git.generalassemb.ly/modular-curriculum-all-courses/data-governance-security-in-ai/edit/main/microlesson-01/README.md)  
+   - D. [Impact of Poor Governance on AI Outcomes](https://git.generalassemb.ly/modular-curriculum-all-courses/data-governance-security-in-ai/edit/main/microlesson-01/README.md) 
+   - E. [Challenges in Applying Traditional Governance to AI](https://git.generalassemb.ly/modular-curriculum-all-courses/data-governance-security-in-ai/edit/main/microlesson-01/README.md)  
+   - F. [Alignment of AI Governance with Organizational Goals](https://git.generalassemb.ly/modular-curriculum-all-courses/data-governance-security-in-ai/edit/main/microlesson-01/README.md)  
+   - G. [Emerging Trends in AI Governance](https://git.generalassemb.ly/modular-curriculum-all-courses/data-governance-security-in-ai/edit/main/microlesson-01/README.md)  
 
-2. **Data Security in AI**  
-   - A. Importance of Securing AI Data Pipelines  
-   - B. Common Threats to Data Security in AI Systems  
-   - C. Encryption Techniques for AI Data  
-   - D. Role of Firewalls and Access Controls  
-   - E. Securing Training and Inference Datasets  
-   - F. Strategies for Monitoring and Incident Response  
-   - G. Tools for Enhancing Data Security in AI Workflows  
+2. **[Data Security in AI](https://git.generalassemb.ly/modular-curriculum-all-courses/data-governance-security-in-ai/edit/main/microlesson-01/README.md)**  
+   - A. [Importance of Securing AI Data Pipelines](https://git.generalassemb.ly/modular-curriculum-all-courses/data-governance-security-in-ai/edit/main/microlesson-01/README.md)  
+   - B. [Common Threats to Data Security in AI Systems](https://git.generalassemb.ly/modular-curriculum-all-courses/data-governance-security-in-ai/edit/main/microlesson-01/README.md)  
+   - C. [Encryption Techniques for AI Data](https://git.generalassemb.ly/modular-curriculum-all-courses/data-governance-security-in-ai/edit/main/microlesson-01/README.md)  
+   - D. [Role of Firewalls and Access Controls](https://git.generalassemb.ly/modular-curriculum-all-courses/data-governance-security-in-ai/edit/main/microlesson-01/README.md)  
+   - E. [Securing Training and Inference Datasets](https://git.generalassemb.ly/modular-curriculum-all-courses/data-governance-security-in-ai/edit/main/microlesson-01/README.md) 
+   - F. [Strategies for Monitoring and Incident Response](https://git.generalassemb.ly/modular-curriculum-all-courses/data-governance-security-in-ai/edit/main/microlesson-01/README.md)  
+   - G. [Tools for Enhancing Data Security in AI Workflows](https://git.generalassemb.ly/modular-curriculum-all-courses/data-governance-security-in-ai/edit/main/microlesson-01/README.md)
+   -  
 
 3. **Privacy Considerations in AI**  
    - A. Understanding Privacy Laws and Regulations (e.g., GDPR, CCPA)  
