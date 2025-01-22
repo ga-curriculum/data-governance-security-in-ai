@@ -15,7 +15,7 @@
 | User Group Charter                     | Metrics Development and Monitoring                   | Data Cleansing Tool                      |
 | Decision Rights                        | Data Profiling                                        |                                          |
 | Issue Escalation Process               | Data Cleansing                                        |                                          |
-[ Components of the Data Governance Framework Source 1](https://www.researchgate.net/publication/228966685_The_need_for_data_governance_A_case_study)
+[ Components of the Data Governance Framework Table 1  Source 1](https://www.researchgate.net/publication/228966685_The_need_for_data_governance_A_case_study)
 
 ## **1. AI Data Security**
 
@@ -74,7 +74,7 @@ AI privacy considerations include safeguarding user data and making sure privacy
 | **Access Control**     | AI enhances security by determining who should have access to what data.        | Biometric systems that use facial recognition or fingerprints for secure access. |
 | **Risk Assessment**    | AI evaluates the potential risks associated with data breaches or security threats. | Assessing and prioritizing risks in cyber security management. |
 
-[AI Enhancements in Data Privacy and Security Source 3 ](https://www.researchgate.net/publication/378288596_AI_in_Data_Privacy_and_Security)
+[AI Enhancements in Data Privacy and Security Table 2 Source 3 ](https://www.researchgate.net/publication/378288596_AI_in_Data_Privacy_and_Security)
 
 
 ---
