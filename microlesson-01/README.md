@@ -6,49 +6,9 @@
 
 **Duration:** 90 Minutes  
 
- [**Learning objective:**](#learning-objective) 
-
-By the end of this session, participants will be able to:
-
-1. **Understand the Foundations of Data Governance in AI**  
-   - Define data governance and explain its importance in AI systems.  
-   - Identify the key principles and frameworks supporting AI data governance.  
-
-2. **Evaluate Data Security Challenges in AI Systems**  
-   - Recognize the importance of securing AI data pipelines and common threats.  
-   - Explore encryption techniques, firewalls, and access controls to enhance security.  
-
-3. **Address Privacy Concerns in AI**  
-   - Understand privacy laws and regulations like GDPR and CCPA.  
-   - Apply anonymization and pseudonymization techniques to protect sensitive data.  
-   - Integrate consent management and privacy by design into AI workflows.  
-
-4. **Analyze Bias and Ethical Considerations in AI**  
-   - Identify various types of bias in AI datasets and algorithms.  
-   - Assess the societal impact of biased AI systems.  
-
-5. **Implement Effective Data Governance Frameworks for AI**  
-   - Describe the components of a data governance framework.  
-   - Establish data ownership, accountability, and metadata management practices.  
-
-6. **Manage the Data Lifecycle in AI Systems**  
-   - Develop strategies for ethical data collection and sourcing.  
-   - Ensure data quality through preprocessing and implement version control for datasets.  
-   
-7. **Promote Transparency and Explainability in AI**  
-   - Explain the importance of transparency and interpretability in AI decision-making.  
-   - Use tools like LIME and SHAP to ensure model explainability.  
-
-8. **Explore Future Trends in AI Governance and Security**  
-   - Understand the role of AI in enhancing governance processes.  
-   - Evaluate the impacts of quantum computing and blockchain on AI security.
-
- 9  **Particiants will understand  Deloitte's Trustworthy AI framework.**
  
+  [**Learning objective:**](#learning-objective) 
 
-This session aims to equip participants with the knowledge and skills required to effectively address data governance and security challenges in AI systems while adhering to ethical, legal, and societal standards.
-
- 
 # [**Table of Contents**](#table-of-content)
 
 I. [**Introduction to Data Governance in AI**](#i-introduction-to-data-governance-in-ai)  
@@ -143,6 +103,46 @@ IX. [**Deloitte's Trustworthy AI Framework**](#ix-deloittes-trustworthy-ai-frame
 G. [Deloitte’s Vision for the Future](#g-deloittes-vision-for-the-future)  
 H. [Conclusion](#h-conclusion)  
 
+
+By the end of this session, participants will be able to:
+
+1. **Understand the Foundations of Data Governance in AI**  
+   - Define data governance and explain its importance in AI systems.  
+   - Identify the key principles and frameworks supporting AI data governance.  
+
+2. **Evaluate Data Security Challenges in AI Systems**  
+   - Recognize the importance of securing AI data pipelines and common threats.  
+   - Explore encryption techniques, firewalls, and access controls to enhance security.  
+
+3. **Address Privacy Concerns in AI**  
+   - Understand privacy laws and regulations like GDPR and CCPA.  
+   - Apply anonymization and pseudonymization techniques to protect sensitive data.  
+   - Integrate consent management and privacy by design into AI workflows.  
+
+4. **Analyze Bias and Ethical Considerations in AI**  
+   - Identify various types of bias in AI datasets and algorithms.  
+   - Assess the societal impact of biased AI systems.  
+
+5. **Implement Effective Data Governance Frameworks for AI**  
+   - Describe the components of a data governance framework.  
+   - Establish data ownership, accountability, and metadata management practices.  
+
+6. **Manage the Data Lifecycle in AI Systems**  
+   - Develop strategies for ethical data collection and sourcing.  
+   - Ensure data quality through preprocessing and implement version control for datasets.  
+   
+7. **Promote Transparency and Explainability in AI**  
+   - Explain the importance of transparency and interpretability in AI decision-making.  
+   - Use tools like LIME and SHAP to ensure model explainability.  
+
+8. **Explore Future Trends in AI Governance and Security**  
+   - Understand the role of AI in enhancing governance processes.  
+   - Evaluate the impacts of quantum computing and blockchain on AI security.
+
+ 9  **Particiants will understand  Deloitte's Trustworthy AI framework.**
+ 
+
+This session aims to equip participants with the knowledge and skills required to effectively address data governance and security challenges in AI systems while adhering to ethical, legal, and societal standards.
 
 
 ### **I. Introduction to Data Governance in AI**
