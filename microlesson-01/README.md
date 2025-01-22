@@ -31,27 +31,25 @@ By the end of this session, participants will be able to:
 4. **Analyze Bias and Ethical Considerations in AI**  
    - Identify various types of bias in AI datasets and algorithms.  
    - Assess the societal impact of biased AI systems.  
-   - Employ methods for detecting and mitigating bias, promoting fairness and accountability.  
 
 5. **Implement Effective Data Governance Frameworks for AI**  
    - Describe the components of a data governance framework.  
    - Establish data ownership, accountability, and metadata management practices.  
-   - Utilize tools and technologies to maintain data quality and compliance.  
 
 6. **Manage the Data Lifecycle in AI Systems**  
    - Develop strategies for ethical data collection and sourcing.  
    - Ensure data quality through preprocessing and implement version control for datasets.  
-   - Automate data lifecycle processes with AI technologies.  
-
+   
 7. **Promote Transparency and Explainability in AI**  
    - Explain the importance of transparency and interpretability in AI decision-making.  
    - Use tools like LIME and SHAP to ensure model explainability.  
-   - Balance transparency with data privacy and communicate decisions effectively to stakeholders.  
 
 8. **Explore Future Trends in AI Governance and Security**  
    - Understand the role of AI in enhancing governance processes.  
-   - Evaluate the impacts of quantum computing and blockchain on AI security.  
-   - Discuss predictions and evolving standards for ethical AI governance over the next decade.  
+   - Evaluate the impacts of quantum computing and blockchain on AI security.
+
+9  **Particiants will understand  Deloitte's Trustworthy AI framework.**
+ 
 
 This session aims to equip participants with the knowledge and skills required to effectively address data governance and security challenges in AI systems while adhering to ethical, legal, and societal standards.
 
@@ -629,91 +627,7 @@ Key trends likely to shape AI governance in the next decade include:
 - **Ethical AI Adoption:** Greater emphasis on societal impact and ethical principles.  
 - **Secure AI Systems:** Advanced defenses against cyber and quantum threats.  
 
-The future promises a dynamic landscape of governance innovation.
 
-
-
-
-
-**Components of the Data Governance Framework**
-
-| **Organizational Bodies and Policies** | **Standards and Processes**                            | **Data Governance Technology**           |
-|----------------------------------------|-------------------------------------------------------|------------------------------------------|
-| Governance Structure                   | Data Definition and Standard (Metadata Management)    | Metadata Repository                      |
-| Data Custodianship                     | Third-Party Data Extract                              | Data Profiling Tool                      |
-| User Group Charter                     | Metrics Development and Monitoring                   | Data Cleansing Tool                      |
-| Decision Rights                        | Data Profiling                                        |                                          |
-| Issue Escalation Process               | Data Cleansing                                        |                                          |
-[ Components of the Data Governance Framework Table 1  Source 1](https://www.researchgate.net/publication/228966685_The_need_for_data_governance_A_case_study)
-
-## **1. AI Data Security**
-
-Throughout the AI lifecycle, data security aims to shield data from misuse, breaches, and illegal access.
-
-### **Crucial Elements:**
-1. **Protecting Training Data for AI:**
-   - **Encryption:** To protect sensitive data, encrypt data while it's in transit and at rest.  
-   - **Access Control:** Give datasets and AI systems multi-factor authentication (MFA) and role-based access control (RBAC).  
-
-2. **Safeguarding AI Models:**
-   - **Adversarial Defence:** Protect models against attacks such as model inversion, data poisoning, and evasion.  
-
-3. **Authentication and Data Integrity:**
-   - **Verify Integrity:** Verify the integrity of the data sources.  
-   - **Provenance Tracking:** Track the provenance of data using blockchain.  
-
-4. **Incident Response and Monitoring:**
-   - **Monitoring:** Keep an eye out for odd activities in AI pipelines.  
-   - **Incident Plan:** Create a strong incident response plan for security risks unique to AI.
-  
- 
-
-
-## **2. AI Data Privacy**
-
-AI privacy considerations include safeguarding user data and making sure privacy laws like the CCPA: California Consumer Privacy Act,GDPR: General Data Protection Regulation,HIPAA: Health Insurance Portability and Accountability Actare followed.
-
-### **Important Procedures:**
-1. **Data Anonymisation and Masking:**
-   - To stop people from being re-identified, remove or obfuscate identifiable information from datasets.  
-
-2. **Differential Privacy:**
-   - To guarantee that individual data points cannot be reverse-engineered, add controlled noise to datasets.  
-
-3. **Federated Learning:**
-   - Develop AI models on dispersed datasets without moving private information to a central location.  
-
-4. **Limitation of Purpose:**
-   - Only gather and handle the information needed for a particular AI application.  
-   - Verify adherence to the principles of data minimisation.  
-
-5. **Management of Consent:**
-   - Get the user's express consent before using their data.  
-   - Offer unambiguous opt-in and opt-out procedures.
-
-      **AI Enhancements in Data Privacy and Security**
-
-| **Aspect**           | **Description**                                                                 | **Example Use Cases**                                        |
-|-----------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------|
-| **Data Anonymization** | AI algorithms help in anonymizing data by removing personally identifiable information. | Creating datasets for research without compromising individual privacy. |
-| **Intrusion Detection** | AI systems can learn to detect unusual patterns indicating a breach.            | Monitoring network traffic to alert for potential threats.   |
-| **Encryption**         | AI can improve encryption methods and manage encryption keys more efficiently. | Securely encrypting data for safe communication.            |
-| **Fraud Detection**    | AI is used to identify and predict fraudulent activity by analyzing patterns.   | Detecting unusual transactions in banking or credit card use. |
-| **Access Control**     | AI enhances security by determining who should have access to what data.        | Biometric systems that use facial recognition or fingerprints for secure access. |
-| **Risk Assessment**    | AI evaluates the potential risks associated with data breaches or security threats. | Assessing and prioritizing risks in cyber security management. |
-
-[AI Enhancements in Data Privacy and Security Table 2 Source 3 ](https://www.researchgate.net/publication/378288596_AI_in_Data_Privacy_and_Security)
-
-
----
-
-
-
-
-
-
-
---- 
 # Deloitte's Trustworthy AI Framework 
 
 [Source 5 ](https://eulisaroundtable.eu/eulisa_content/uploads/2024/11/deloitte-industry-roundtable-trustworthy-ai-framework.pdf)
