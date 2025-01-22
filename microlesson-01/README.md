@@ -15,7 +15,7 @@
 | User Group Charter                     | Metrics Development and Monitoring                   | Data Cleansing Tool                      |
 | Decision Rights                        | Data Profiling                                        |                                          |
 | Issue Escalation Process               | Data Cleansing                                        |                                          |
-[ Components of the Data Governance Framework Source ](https://www.researchgate.net/publication/228966685_The_need_for_data_governance_A_case_study)
+[ Components of the Data Governance Framework Source 1](https://www.researchgate.net/publication/228966685_The_need_for_data_governance_A_case_study)
 
 ## **1. AI Data Security**
 
@@ -38,7 +38,7 @@ Throughout the AI lifecycle, data security aims to shield data from misuse, brea
    - **Incident Plan:** Create a strong incident response plan for security risks unique to AI.
   
  ![Machine Learning Applications in Cyber Security](https://git.generalassemb.ly/modular-courses/ai-solution-architect-deloitte-ENT/blob/main/_images/Screenshot%202025-01-22%20102524.png)
- [Machine Learning Applications in Cyber Security Source ](https://www.researchgate.net/publication/364126309_Artificial_Intelligence_in_Cyber_Security)
+ [Machine Learning Applications in Cyber Security Source 2 ](https://www.researchgate.net/publication/364126309_Artificial_Intelligence_in_Cyber_Security)
 
  **AI Enhancements in Data Privacy and Security**
 
@@ -51,7 +51,7 @@ Throughout the AI lifecycle, data security aims to shield data from misuse, brea
 | **Access Control**     | AI enhances security by determining who should have access to what data.        | Biometric systems that use facial recognition or fingerprints for secure access. |
 | **Risk Assessment**    | AI evaluates the potential risks associated with data breaches or security threats. | Assessing and prioritizing risks in cyber security management. |
 
-[AI Enhancements in Data Privacy and Security Source 2](https://www.researchgate.net/publication/378288596_AI_in_Data_Privacy_and_Security)
+[AI Enhancements in Data Privacy and Security Source 3 ](https://www.researchgate.net/publication/378288596_AI_in_Data_Privacy_and_Security)
 
 ## **2. AI Data Privacy**
 
