@@ -121,7 +121,10 @@ This session aims to equip participants with the knowledge and skills required t
    - [D. AI Governance in the Context of IoT and Edge Computing](#d-ai-governance-in-the-context-of-iot-and-edge-computing)  
    - [E. Evolving Standards for Ethical AI](#e-evolving-standards-for-ethical-ai)  
    - [F. Cross-Industry Collaboration for Governance Improvement](#f-cross-industry-collaboration-for-governance-improvement)  
-   - [G. Predictions for the Next Decade in AI Governance](#g-predictions-for-the-next-decade-in-ai-governance)  
+   - [G. Predictions for the Next Decade in AI Governance](#g-predictions-for-the-next-decade-in-ai-governance)
+
+9.[**Deloitte's Trustworthy AI Framework](#deloitte's-trustworthy-ai-framework)
+     
 
 
 
