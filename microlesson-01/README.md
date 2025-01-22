@@ -9,81 +9,127 @@
 # **Course Title: Data Governance and Security in AI**  
 **Duration:** 90 Minutes  
 
----
-# **Table of Contents**
+ [**Learning objective:**](#learning-objective) 
 
-1. **[Introduction to Data Governance in AI](https://git.generalassemb.ly/modular-curriculum-all-courses/data-governance-security-in-ai/edit/main/microlesson-01/README.md)**  
-   - A.[Definition and Scope of Data Governance in AI](https://git.generalassemb.ly/modular-curriculum-all-courses/data-governance-security-in-ai/edit/main/microlesson-01/README.md) 
-   - B. [Key Principles and Frameworks](https://git.generalassemb.ly/modular-curriculum-all-courses/data-governance-security-in-ai/edit/main/microlesson-01/README.md)  
-   - C. [Role of Governance in AI Lifecycle Management](https://git.generalassemb.ly/modular-curriculum-all-courses/data-governance-security-in-ai/edit/main/microlesson-01/README.md)  
-   - D. [Impact of Poor Governance on AI Outcomes](https://git.generalassemb.ly/modular-curriculum-all-courses/data-governance-security-in-ai/edit/main/microlesson-01/README.md) 
-   - E. [Challenges in Applying Traditional Governance to AI](https://git.generalassemb.ly/modular-curriculum-all-courses/data-governance-security-in-ai/edit/main/microlesson-01/README.md)  
-   - F. [Alignment of AI Governance with Organizational Goals](https://git.generalassemb.ly/modular-curriculum-all-courses/data-governance-security-in-ai/edit/main/microlesson-01/README.md)  
-   - G. [Emerging Trends in AI Governance](https://git.generalassemb.ly/modular-curriculum-all-courses/data-governance-security-in-ai/edit/main/microlesson-01/README.md)  
+ # **Learning Objectives**
 
-2. **[Data Security in AI](https://git.generalassemb.ly/modular-curriculum-all-courses/data-governance-security-in-ai/edit/main/microlesson-01/README.md)**  
-   - A. [Importance of Securing AI Data Pipelines](https://git.generalassemb.ly/modular-curriculum-all-courses/data-governance-security-in-ai/edit/main/microlesson-01/README.md)  
-   - B. [Common Threats to Data Security in AI Systems](https://git.generalassemb.ly/modular-curriculum-all-courses/data-governance-security-in-ai/edit/main/microlesson-01/README.md)  
-   - C. [Encryption Techniques for AI Data](https://git.generalassemb.ly/modular-curriculum-all-courses/data-governance-security-in-ai/edit/main/microlesson-01/README.md)  
-   - D. [Role of Firewalls and Access Controls](https://git.generalassemb.ly/modular-curriculum-all-courses/data-governance-security-in-ai/edit/main/microlesson-01/README.md)  
-   - E. [Securing Training and Inference Datasets](https://git.generalassemb.ly/modular-curriculum-all-courses/data-governance-security-in-ai/edit/main/microlesson-01/README.md) 
-   - F. [Strategies for Monitoring and Incident Response](https://git.generalassemb.ly/modular-curriculum-all-courses/data-governance-security-in-ai/edit/main/microlesson-01/README.md)  
-   - G. [Tools for Enhancing Data Security in AI Workflows](https://git.generalassemb.ly/modular-curriculum-all-courses/data-governance-security-in-ai/edit/main/microlesson-01/README.md)
-   -  
+By the end of this session, participants will be able to:
 
-3. **Privacy Considerations in AI**  
-   - A.[Understanding Privacy Laws and Regulations (e.g., GDPR, CCPA)] 
-   - B. Anonymization and Pseudonymization Techniques  
-   - C. Consent Management in AI Data Collection  
-   - D. Privacy by Design in AI Systems  
-   - E. Handling Sensitive and Personal Data  
-   - F. Challenges in Ensuring Privacy in Large Datasets  
-   - G. Case Studies of Privacy Breaches and Lessons Learned  
+1. **Understand the Foundations of Data Governance in AI**  
+   - Define data governance and explain its importance in AI systems.  
+   - Identify the key principles and frameworks supporting AI data governance.  
 
-4. **Bias in AI and Ethical Considerations**  
-   - A. Understanding Bias and Its Types in AI  
-   - B. Sources of Bias in AI Datasets and Algorithms  
-   - C. Impact of Bias on Decision-Making and Society  
-   - D. Methods for Detecting and Mitigating Bias  
-   - E. Importance of Fairness and Accountability in AI  
-   - F. Role of Diversity in Reducing AI Bias  
-   - G. Ethical Frameworks for Bias-Free AI  
+2. **Evaluate Data Security Challenges in AI Systems**  
+   - Recognize the importance of securing AI data pipelines and common threats.  
+   - Explore encryption techniques, firewalls, and access controls to enhance security.  
 
-5. **Data Governance Frameworks for AI**  
-   - A. Components of a Data Governance Framework  
-   - B. Establishing Data Ownership and Accountability  
-   - C. Role of Metadata Management  
-   - D. Data Quality Management Principles  
-   - E. Governance Tools and Technologies  
-   - F. Continuous Improvement in Governance Frameworks  
-   - G. Adapting Frameworks to Evolving AI Technologies  
+3. **Address Privacy Concerns in AI**  
+   - Understand privacy laws and regulations like GDPR and CCPA.  
+   - Apply anonymization and pseudonymization techniques to protect sensitive data.  
+   - Integrate consent management and privacy by design into AI workflows.  
 
-6. **Data Lifecycle Management in AI**  
-   - A. Data Collection and Sourcing Strategies  
-   - B. Ensuring Data Quality During Preprocessing  
-   - C. Data Storage and Archiving Best Practices  
-   - D. Managing Data Access and Permissions  
-   - E. End-of-Life Considerations for AI Data  
-   - F. Version Control in AI Datasets  
-   - G. Automating Data Lifecycle Processes with AI  
+4. **Analyze Bias and Ethical Considerations in AI**  
+   - Identify various types of bias in AI datasets and algorithms.  
+   - Assess the societal impact of biased AI systems.  
+   - Employ methods for detecting and mitigating bias, promoting fairness and accountability.  
 
-7. **Transparency and Explainability in AI**  
-   - A. Importance of Explainability in AI Systems  
-   - B. Methods to Ensure Transparency in AI Decision-Making  
-   - C. Communicating AI Decisions to Stakeholders  
-   - D. Balancing Transparency with Data Privacy  
-   - E. Tools and Frameworks for AI Explainability  
-   - F. Challenges in Achieving Full Transparency  
-   - G. Use Cases Highlighting Transparency Benefits  
+5. **Implement Effective Data Governance Frameworks for AI**  
+   - Describe the components of a data governance framework.  
+   - Establish data ownership, accountability, and metadata management practices.  
+   - Utilize tools and technologies to maintain data quality and compliance.  
 
-8. **Future Trends in AI Governance and Security**  
-   - A. Role of AI in Enhancing Governance  
-   - B. Impacts of Quantum Computing on AI Security  
-   - C. Blockchain for Data Integrity in AI Systems  
-   - D. AI Governance in the Context of IoT and Edge Computing  
-   - E. Evolving Standards for Ethical AI  
-   - F. Cross-Industry Collaboration for Governance Improvement  
-   - G. Predictions for the Next Decade in AI Governance  
+6. **Manage the Data Lifecycle in AI Systems**  
+   - Develop strategies for ethical data collection and sourcing.  
+   - Ensure data quality through preprocessing and implement version control for datasets.  
+   - Automate data lifecycle processes with AI technologies.  
+
+7. **Promote Transparency and Explainability in AI**  
+   - Explain the importance of transparency and interpretability in AI decision-making.  
+   - Use tools like LIME and SHAP to ensure model explainability.  
+   - Balance transparency with data privacy and communicate decisions effectively to stakeholders.  
+
+8. **Explore Future Trends in AI Governance and Security**  
+   - Understand the role of AI in enhancing governance processes.  
+   - Evaluate the impacts of quantum computing and blockchain on AI security.  
+   - Discuss predictions and evolving standards for ethical AI governance over the next decade.  
+
+This session aims to equip participants with the knowledge and skills required to effectively address data governance and security challenges in AI systems while adhering to ethical, legal, and societal standards.
+
+ 
+# [**Table of Contents**](#table-of-content)
+
+1. [**Introduction to Data Governance in AI**](#1-introduction-to-data-governance-in-ai)  
+   - [A. Definition and Scope of Data Governance in AI](#a-definition-and-scope-of-data-governance-in-ai)  
+   - [B. Key Principles and Frameworks](#b-key-principles-and-frameworks)  
+   - [C. Role of Governance in AI Lifecycle Management](#c-role-of-governance-in-ai-lifecycle-management)  
+   - [D. Impact of Poor Governance on AI Outcomes](#d-impact-of-poor-governance-on-ai-outcomes)  
+   - [E. Challenges in Applying Traditional Governance to AI](#e-challenges-in-applying-traditional-governance-to-ai)  
+   - [F. Alignment of AI Governance with Organizational Goals](#f-alignment-of-ai-governance-with-organizational-goals)  
+   - [G. Emerging Trends in AI Governance](#g-emerging-trends-in-ai-governance)  
+
+2. [**Data Security in AI**](#2-data-security-in-ai)  
+   - [A. Importance of Securing AI Data Pipelines](#a-importance-of-securing-ai-data-pipelines)  
+   - [B. Common Threats to Data Security in AI Systems](#b-common-threats-to-data-security-in-ai-systems)  
+   - [C. Encryption Techniques for AI Data](#c-encryption-techniques-for-ai-data)  
+   - [D. Role of Firewalls and Access Controls](#d-role-of-firewalls-and-access-controls)  
+   - [E. Securing Training and Inference Datasets](#e-securing-training-and-inference-datasets)  
+   - [F. Strategies for Monitoring and Incident Response](#f-strategies-for-monitoring-and-incident-response)  
+   - [G. Tools for Enhancing Data Security in AI Workflows](#g-tools-for-enhancing-data-security-in-ai-workflows)  
+
+3. [**Privacy Considerations in AI**](#3-privacy-considerations-in-ai)  
+   - [A. Understanding Privacy Laws and Regulations (e.g., GDPR, CCPA)](#a-understanding-privacy-laws-and-regulations-eg-gdpr-ccpa)  
+   - [B. Anonymization and Pseudonymization Techniques](#b-anonymization-and-pseudonymization-techniques)  
+   - [C. Consent Management in AI Data Collection](#c-consent-management-in-ai-data-collection)  
+   - [D. Privacy by Design in AI Systems](#d-privacy-by-design-in-ai-systems)  
+   - [E. Handling Sensitive and Personal Data](#e-handling-sensitive-and-personal-data)  
+   - [F. Challenges in Ensuring Privacy in Large Datasets](#f-challenges-in-ensuring-privacy-in-large-datasets)  
+   - [G. Case Studies of Privacy Breaches and Lessons Learned](#g-case-studies-of-privacy-breaches-and-lessons-learned)  
+
+4. [**Bias in AI and Ethical Considerations**](#4-bias-in-ai-and-ethical-considerations)  
+   - [A. Understanding Bias and Its Types in AI](#a-understanding-bias-and-its-types-in-ai)  
+   - [B. Sources of Bias in AI Datasets and Algorithms](#b-sources-of-bias-in-ai-datasets-and-algorithms)  
+   - [C. Impact of Bias on Decision-Making and Society](#c-impact-of-bias-on-decision-making-and-society)  
+   - [D. Methods for Detecting and Mitigating Bias](#d-methods-for-detecting-and-mitigating-bias)  
+   - [E. Importance of Fairness and Accountability in AI](#e-importance-of-fairness-and-accountability-in-ai)  
+   - [F. Role of Diversity in Reducing AI Bias](#f-role-of-diversity-in-reducing-ai-bias)  
+   - [G. Ethical Frameworks for Bias-Free AI](#g-ethical-frameworks-for-bias-free-ai)  
+
+5. [**Data Governance Frameworks for AI**](#5-data-governance-frameworks-for-ai)  
+   - [A. Components of a Data Governance Framework](#a-components-of-a-data-governance-framework)  
+   - [B. Establishing Data Ownership and Accountability](#b-establishing-data-ownership-and-accountability)  
+   - [C. Role of Metadata Management](#c-role-of-metadata-management)  
+   - [D. Data Quality Management Principles](#d-data-quality-management-principles)  
+   - [E. Governance Tools and Technologies](#e-governance-tools-and-technologies)  
+   - [F. Continuous Improvement in Governance Frameworks](#f-continuous-improvement-in-governance-frameworks)  
+   - [G. Adapting Frameworks to Evolving AI Technologies](#g-adapting-frameworks-to-evolving-ai-technologies)  
+
+6. [**Data Lifecycle Management in AI**](#6-data-lifecycle-management-in-ai)  
+   - [A. Data Collection and Sourcing Strategies](#a-data-collection-and-sourcing-strategies)  
+   - [B. Ensuring Data Quality During Preprocessing](#b-ensuring-data-quality-during-preprocessing)  
+   - [C. Data Storage and Archiving Best Practices](#c-data-storage-and-archiving-best-practices)  
+   - [D. Managing Data Access and Permissions](#d-managing-data-access-and-permissions)  
+   - [E. End-of-Life Considerations for AI Data](#e-end-of-life-considerations-for-ai-data)  
+   - [F. Version Control in AI Datasets](#f-version-control-in-ai-datasets)  
+   - [G. Automating Data Lifecycle Processes with AI](#g-automating-data-lifecycle-processes-with-ai)  
+
+7. [**Transparency and Explainability in AI**](#7-transparency-and-explainability-in-ai)  
+   - [A. Importance of Explainability in AI Systems](#a-importance-of-explainability-in-ai-systems)  
+   - [B. Methods to Ensure Transparency in AI Decision-Making](#b-methods-to-ensure-transparency-in-ai-decision-making)  
+   - [C. Communicating AI Decisions to Stakeholders](#c-communicating-ai-decisions-to-stakeholders)  
+   - [D. Balancing Transparency with Data Privacy](#d-balancing-transparency-with-data-privacy)  
+   - [E. Tools and Frameworks for AI Explainability](#e-tools-and-frameworks-for-ai-explainability)  
+   - [F. Challenges in Achieving Full Transparency](#f-challenges-in-achieving-full-transparency)  
+   - [G. Use Cases Highlighting Transparency Benefits](#g-use-cases-highlighting-transparency-benefits)  
+
+8. [**Future Trends in AI Governance and Security**](#8-future-trends-in-ai-governance-and-security)  
+   - [A. Role of AI in Enhancing Governance](#a-role-of-ai-in-enhancing-governance)  
+   - [B. Impacts of Quantum Computing on AI Security](#b-impacts-of-quantum-computing-on-ai-security)  
+   - [C. Blockchain for Data Integrity in AI Systems](#c-blockchain-for-data-integrity-in-ai-systems)  
+   - [D. AI Governance in the Context of IoT and Edge Computing](#d-ai-governance-in-the-context-of-iot-and-edge-computing)  
+   - [E. Evolving Standards for Ethical AI](#e-evolving-standards-for-ethical-ai)  
+   - [F. Cross-Industry Collaboration for Governance Improvement](#f-cross-industry-collaboration-for-governance-improvement)  
+   - [G. Predictions for the Next Decade in AI Governance](#g-predictions-for-the-next-decade-in-ai-governance)  
+
 
 
 ### **1. Introduction to Data Governance in AI**
