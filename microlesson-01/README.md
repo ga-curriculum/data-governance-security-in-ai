@@ -35,9 +35,20 @@ Throughout the AI lifecycle, data security aims to shield data from misuse, brea
 
 4. **Incident Response and Monitoring:**
    - **Monitoring:** Keep an eye out for odd activities in AI pipelines.  
-   - **Incident Plan:** Create a strong incident response plan for security risks unique to AI.  
+   - **Incident Plan:** Create a strong incident response plan for security risks unique to AI.
 
----
+ **AI Enhancements in Data Privacy and Security**
+
+| **Aspect**           | **Description**                                                                 | **Example Use Cases**                                        |
+|-----------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------|
+| **Data Anonymization** | AI algorithms help in anonymizing data by removing personally identifiable information. | Creating datasets for research without compromising individual privacy. |
+| **Intrusion Detection** | AI systems can learn to detect unusual patterns indicating a breach.            | Monitoring network traffic to alert for potential threats.   |
+| **Encryption**         | AI can improve encryption methods and manage encryption keys more efficiently. | Securely encrypting data for safe communication.            |
+| **Fraud Detection**    | AI is used to identify and predict fraudulent activity by analyzing patterns.   | Detecting unusual transactions in banking or credit card use. |
+| **Access Control**     | AI enhances security by determining who should have access to what data.        | Biometric systems that use facial recognition or fingerprints for secure access. |
+| **Risk Assessment**    | AI evaluates the potential risks associated with data breaches or security threats. | Assessing and prioritizing risks in cyber security management. |
+
+[AI Enhancements in Data Privacy and Security Source 2](https://www.researchgate.net/publication/378288596_AI_in_Data_Privacy_and_Security)
 
 ## **2. AI Data Privacy**
 
