@@ -103,7 +103,7 @@ IX. [**Deloitte's Trustworthy AI Framework**](#ix-deloittes-trustworthy-ai-frame
 G. [Deloitte’s Vision for the Future](#g-deloittes-vision-for-the-future)  
 H. [Conclusion](#h-conclusion)  
 
-
+**Learning Objectives**
 By the end of this session, participants will be able to:
 
 1. **Understand the Foundations of Data Governance in AI**  
