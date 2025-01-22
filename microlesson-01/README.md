@@ -8,8 +8,6 @@
 
  [**Learning objective:**](#learning-objective) 
 
- ## **Learning Objectives**
-
 By the end of this session, participants will be able to:
 
 1. **Understand the Foundations of Data Governance in AI**  
