@@ -32,7 +32,7 @@
    -  
 
 3. **Privacy Considerations in AI**  
-   - A. Understanding Privacy Laws and Regulations (e.g., GDPR, CCPA)  
+   - A.[Understanding Privacy Laws and Regulations (e.g., GDPR, CCPA)] 
    - B. Anonymization and Pseudonymization Techniques  
    - C. Consent Management in AI Data Collection  
    - D. Privacy by Design in AI Systems  
