@@ -3,7 +3,6 @@
   <span class="subhead"></span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
 
 
 # **Course Title: Data Governance and Security in AI**  
@@ -11,7 +10,7 @@
 
  [**Learning objective:**](#learning-objective) 
 
- # **Learning Objectives**
+ ## **Learning Objectives**
 
 By the end of this session, participants will be able to:
 
