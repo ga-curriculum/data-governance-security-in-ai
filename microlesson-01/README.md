@@ -93,7 +93,7 @@ AI bias must be identified and mitigated since it can produce unfair or biased r
 3. **Human Bias:**
    - Prejudices or presumptions made when developing models or datasets.
   
-   # Types of Bias in AI
+   ## Types of Bias in Gen AI
 
 | **Type of Bias**       | **Description**                                                                                                                                                          | **Examples**                                                                                                                                                                                                                                   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -105,7 +105,7 @@ AI bias must be identified and mitigated since it can produce unfair or biased r
 | **Interaction Bias**    | Occurs when an AI system interacts with humans in a biased manner, resulting in unfair treatment.                                                                         | A chatbot that responds differently to men and women, resulting in biased communication.                                                                                                                                                      |
 | **Generative Bias**     | Occurs in generative AI models, like those used for creating synthetic data, images, or text. Generative bias emerges when the model's outputs disproportionately reflect specific attributes, perspectives, or patterns present in the training data, leading to skewed or unbalanced representations in generated content. | A text generation model trained predominantly on literature from Western authors may over-represent Western cultural norms and idioms, under-representing or misrepresenting other cultures. Similarly, an image generation model trained on datasets with limited diversity in human portraits may struggle to accurately represent a broad range of ethnicities. |
 
-[Bias in Generative AI Systems (GenAI)](https://www.researchgate.net/publication/378270921_Ethical_Considerations_in_AI_Addressing_Bias_and_Fairness_in_Machine_Learning_Models)
+[Table 3 Bias in Generative AI Systems (GenAI) source 4](https://www.researchgate.net/publication/378270921_Ethical_Considerations_in_AI_Addressing_Bias_and_Fairness_in_Machine_Learning_Models)
 
 
 ### **Strategies for Mitigation:**
