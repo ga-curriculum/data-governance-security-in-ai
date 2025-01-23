@@ -80,8 +80,8 @@ VIII. [**Future Trends in AI Governance and Security**](#viii-future-trends-in-a
    - [G. Predictions for the Next Decade in AI Governance](#g-predictions-for-the-next-decade-in-ai-governance)  
 
 IX. [**Deloitte's Trustworthy AI Framework**](#ix-deloittes-trustworthy-ai-framework)     (15 Mins)
-  [A.Overview of Deloitte’s Trustworthy AI Framework](#a-overview-of-deloittes-trustworthy-ai-framework)  
-  [B.The Seven Core Dimensions of the Framework](#b-the-seven-core-dimensions-of-the-framework)  
+  - [A.Overview of Deloitte’s Trustworthy AI Framework](#a-overview-of-deloittes-trustworthy-ai-framework)  
+  - [B.The Seven Core Dimensions of the Framework](#b-the-seven-core-dimensions-of-the-framework)  
    1. [Private](#1-private)  
    2. [Transparent and Explainable](#2-transparent-and-explainable)  
    3. [Fair and Impartial](#3-fair-and-impartial)  
