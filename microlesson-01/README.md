@@ -100,10 +100,9 @@ IX. [**Deloitte's Trustworthy AI Framework**](#ix-deloittes-trustworthy-ai-frame
 G. [Deloitte’s Vision for the Future](#g-deloittes-vision-for-the-future)  
 H. [Conclusion](#h-conclusion)  
 
-**Learning Objectives**
-By the end of this session, participants will be able to:
+## Learning Objectives
 
-### Learning Objectives
+By the end of this session, participants will be able to:
 
 - Define and explain the importance of data governance in AI systems.  
 - Identify and describe key principles and frameworks supporting AI data governance.  
@@ -116,10 +115,6 @@ By the end of this session, participants will be able to:
 - Explore future impacts of quantum computing and blockchain on AI security and governance.  
 - Explain the components of Deloitte's Trustworthy AI Framework.  
 
-
- 
-
-This session aims to equip participants with the knowledge and skills required to effectively address data governance and security challenges in AI systems while adhering to ethical, legal, and societal standards.
 
 
 ### **I. Introduction to Data Governance in AI**
