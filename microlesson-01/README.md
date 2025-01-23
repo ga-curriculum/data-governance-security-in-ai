@@ -71,7 +71,7 @@ VII. [**Transparency and Explainability in AI**](#vii-transparency-and-explainab
    - [F. Challenges in Achieving Full Transparency](#f-challenges-in-achieving-full-transparency)  
    - [G. Use Cases Highlighting Transparency Benefits](#g-use-cases-highlighting-transparency-benefits)  
 
-VIII. [**Future Trends in AI Governance and Security**](#viii-future-trends-in-ai-governance-and-security)  
+VIII. [**Future Trends in AI Governance and Security**](#viii-future-trends-in-ai-governance-and-security) (5 Min) 
    - [A. Role of AI in Enhancing Governance](#a-role-of-ai-in-enhancing-governance)  
    - [B. Impacts of Quantum Computing on AI Security](#b-impacts-of-quantum-computing-on-ai-security)  
    - [C. Blockchain for Data Integrity in AI Systems](#c-blockchain-for-data-integrity-in-ai-systems)  
@@ -80,7 +80,7 @@ VIII. [**Future Trends in AI Governance and Security**](#viii-future-trends-in-a
    - [F. Cross-Industry Collaboration for Governance Improvement](#f-cross-industry-collaboration-for-governance-improvement)  
    - [G. Predictions for the Next Decade in AI Governance](#g-predictions-for-the-next-decade-in-ai-governance)  
 
-IX. [**Deloitte's Trustworthy AI Framework**](#ix-deloittes-trustworthy-ai-framework)  (15 Mins)
+IX. [**Deloitte's Trustworthy AI Framework**](#ix-deloittes-trustworthy-ai-framework)     (15 Mins)
   [A.Overview of Deloitte’s Trustworthy AI Framework](#a-overview-of-deloittes-trustworthy-ai-framework)  
   [B.The Seven Core Dimensions of the Framework](#b-the-seven-core-dimensions-of-the-framework)  
    1. [Private](#1-private)  
