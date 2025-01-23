@@ -4,11 +4,10 @@
 </h1>
 
 
-# [**Table of Contents**](#table-of-content)
+## [**Table of Contents**](#table-of-content)
 
-## [**Learning objective:**](#learning-objective) 
 
-I. [**Introduction to Data Governance in AI**](#i-introduction-to-data-governance-in-ai)(5  Min)
+I. [**Introduction to Data Governance in AI**](#i-introduction-to-data-governance-in-ai) (5  Min)
    - [A. Definition and Scope of Data Governance in AI](#a-definition-and-scope-of-data-governance-in-ai)  
    - [B. Key Principles and Frameworks](#b-key-principles-and-frameworks)  
    - [C. Role of Governance in AI Lifecycle Management](#c-role-of-governance-in-ai-lifecycle-management)  
