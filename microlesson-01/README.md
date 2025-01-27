@@ -691,7 +691,7 @@ Key trends likely to shape AI governance in the next decade include:
 - **Ethical AI Adoption:** Greater emphasis on societal impact and ethical principles.  
 - **Secure AI Systems:** Advanced defenses against cyber and quantum threats.  
 
-## IX. [**Deloitte's Trustworthy AI Framework**](#ix-deloittes-trustworthy-ai-framework)
+## IX. [**Deloitte's Trustworthy AI Framework**]
 
 ### A. Overview of Deloitte’s Trustworthy AI Framework
 Deloitte's Trustworthy AI Framework provides organizations with a structured approach to build AI systems that are ethical, reliable, and aligned with societal norms. It emphasizes embedding trust into every stage of the AI lifecycle.
