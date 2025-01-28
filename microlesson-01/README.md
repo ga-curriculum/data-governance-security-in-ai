@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">[Data Governance and Security in AI]</span>
+  <span class="headline">Data Governance and Security in AI</span>
 <span class="subhead"> </span>
 </h1>
 
