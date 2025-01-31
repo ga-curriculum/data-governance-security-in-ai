@@ -1,6 +1,6 @@
 <h1>
-  <span class="headline">Introduction to Data Governance in AI</span>
-<span class="subhead"> </span>
+  <span class="headline">Data Governance and Security in AI</span>
+  <span class="subhead">Introduction to Data Governance in AI</span>
 </h1>
 
 #### **A. Definition and Scope of Data Governance in AI**  
