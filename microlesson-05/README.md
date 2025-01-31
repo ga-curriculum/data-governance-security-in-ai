@@ -1,6 +1,6 @@
 <h1>
-  <span class="headline">Data Governance Frameworks for AI</span>
-  <span class="subhead"></span>
+  <span class="headline">Data Governance and Security in AI</span>
+  <span class="subhead">Data Governance Frameworks for AI</span>
 </h1>
 
 #### **A. Components of a Data Governance Framework**  
