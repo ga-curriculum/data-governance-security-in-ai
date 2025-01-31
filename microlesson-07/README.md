@@ -1,6 +1,6 @@
 <h1>
-  <span class="headline">Transparency and Explainability in AI</span>
-  <span class="subhead"></span>
+  <span class="headline">Data Governance and Security in AI</span>
+  <span class="subhead">Transparency and Explainability in AI</span>
 </h1>
 
 #### **A. Importance of Explainability in AI Systems**  
