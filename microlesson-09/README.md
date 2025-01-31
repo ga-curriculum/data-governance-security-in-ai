@@ -1,6 +1,6 @@
 <h1>
-  <span class="headline">Deloitte's Trustworthy AI Framework</span>
-  <span class="subhead"></span>
+  <span class="headline">Data Governance and Security in AI</span>
+  <span class="subhead">Deloitte's Trustworthy AI Framework</span>
 </h1>
 
 ### A. Overview of Deloitte’s Trustworthy AI Framework
