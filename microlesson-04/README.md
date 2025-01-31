@@ -1,6 +1,6 @@
 <h1>
-  <span class="headline">Bias in AI and Ethical Considerations</span>
-  <span class="subhead"></span>
+  <span class="headline">Data Governance and Security in AI</span>
+  <span class="subhead">Bias in AI and Ethical Considerations</span>
 </h1>
 
 #### **A. Understanding Bias and Its Types in AI**  
