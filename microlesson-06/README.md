@@ -1,6 +1,6 @@
 <h1>
-  <span class="headline">Data Lifecycle Management in AI</span>
-  <span class="subhead"></span>
+  <span class="headline">Data Governance and Security in AI</span>
+  <span class="subhead">Data Lifecycle Management in AI</span>
 </h1>
 
 #### **A. Data Collection and Sourcing Strategies**  
