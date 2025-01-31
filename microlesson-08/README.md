@@ -1,7 +1,8 @@
 <h1>
-  <span class="headline">Future Trends in AI Governance and Security</span>
-  <span class="subhead"></span>
+  <span class="headline">Data Governance and Security in AI</span>
+  <span class="subhead">Future Trends in AI Governance and Security</span>
 </h1>
+
 
 #### **A. Role of AI in Enhancing Governance**  
 AI technologies can improve governance processes by:  
