@@ -1,6 +1,6 @@
 <h1>
-  <span class="headline">Privacy Considerations in AI</span>
-  <span class="subhead"></span>
+  <span class="headline">Data Governance and Security in AI</span>
+  <span class="subhead">Privacy Considerations in AI</span>
 </h1>
 
 #### **A. Understanding Privacy Laws and Regulations (e.g., GDPR, CCPA)**  
