@@ -12,6 +12,7 @@ A data governance framework for AI includes key components such as:
 
 These components provide structure for ensuring data integrity, security, and compliance.
 
+---
 #### **B. Establishing Data Ownership and Accountability**  
 Assigning clear ownership and accountability ensures data is managed effectively:  
 - **Data Owners:** Individuals responsible for data accuracy and usage.  
@@ -20,6 +21,7 @@ Assigning clear ownership and accountability ensures data is managed effectively
 
 Clear ownership promotes responsible data handling and decision-making.
 
+---
 #### **C. Role of Metadata Management**  
 Metadata management involves organizing and maintaining information about data:  
 - **Data Catalogs:** Indexing datasets for easy discovery.  
@@ -28,6 +30,7 @@ Metadata management involves organizing and maintaining information about data:
 
 Effective metadata management ensures data is accessible, traceable, and trustworthy.
 
+---
 #### **D. Data Quality Management Principles**  
 Ensuring data quality is critical for reliable AI outcomes. Principles include:  
 - **Accuracy:** Data must be correct and error-free.  
@@ -37,6 +40,7 @@ Ensuring data quality is critical for reliable AI outcomes. Principles include:
 
 High-quality data minimizes risks of biased or inaccurate AI predictions.
 
+---
 #### **E. Governance Tools and Technologies**  
 Various tools and technologies support AI data governance:  
 - **Data Governance Platforms:** Centralized systems for managing governance policies.  
@@ -46,6 +50,7 @@ Various tools and technologies support AI data governance:
 
 These tools streamline governance processes and improve efficiency.
 
+---
 #### **F. Continuous Improvement in Governance Frameworks**  
 Governance frameworks must evolve to stay effective:  
 - **Feedback Loops:** Incorporating lessons learned from governance audits.  
@@ -55,6 +60,7 @@ Governance frameworks must evolve to stay effective:
 
 Continuous improvement ensures frameworks remain robust and adaptive.
 
+---
 #### **G. Adapting Frameworks to Evolving AI Technologies**  
 As AI evolves, governance frameworks must adapt:  
 - **Dynamic Data Sources:** Managing real-time and streaming data.  
