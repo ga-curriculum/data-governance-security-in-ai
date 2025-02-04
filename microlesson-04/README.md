@@ -11,6 +11,7 @@ Bias in AI refers to systematic and unfair favoritism or discrimination in AI mo
 
 Understanding these types helps in identifying and addressing bias at different stages of AI development.
 
+---
 #### **B. Sources of Bias in AI Datasets and Algorithms**  
 Bias in AI can arise from various sources, such as:  
 - **Historical Data:** Reflecting past discrimination or inequalities.  
@@ -20,6 +21,7 @@ Bias in AI can arise from various sources, such as:
 
 These sources underline the importance of scrutinizing both datasets and algorithms.
 
+---
 #### **C. Impact of Bias on Decision-Making and Society**  
 Bias in AI systems can have significant consequences:  
 - **Discriminatory Outcomes:** AI models may unfairly favor or disadvantage certain groups.  
@@ -27,6 +29,7 @@ Bias in AI systems can have significant consequences:
 - **Amplification of Inequalities:** Biased systems perpetuate societal disparities.  
 - **Legal and Ethical Risks:** Organizations face regulatory penalties and reputational damage.
 
+---
 #### **D. Methods for Detecting and Mitigating Bias**  
 Organizations can use the following methods to detect and reduce bias:  
 - **Bias Audits:** Regularly evaluating datasets and models for bias.  
@@ -36,6 +39,7 @@ Organizations can use the following methods to detect and reduce bias:
 
 Bias mitigation ensures fairness and improves AI system reliability.
 
+---
 #### **E. Importance of Fairness and Accountability in AI**  
 Fairness and accountability are essential for ethical AI deployment:  
 - **Fairness:** Ensures equitable treatment for all user groups.  
@@ -43,6 +47,7 @@ Fairness and accountability are essential for ethical AI deployment:
 
 Building fairness and accountability into AI processes fosters public trust and regulatory compliance.
 
+---
 #### **F. Role of Diversity in Reducing AI Bias**  
 Diversity in AI development teams and datasets is key to minimizing bias:  
 - **Inclusive Teams:** Diverse perspectives help identify potential biases during development.  
@@ -51,6 +56,7 @@ Diversity in AI development teams and datasets is key to minimizing bias:
 
 Diversity promotes fairness and reduces the likelihood of biased AI outputs.
 
+---
 #### **G. Ethical Frameworks for Bias-Free AI**  
 Ethical frameworks provide guidelines for creating bias-free AI systems:  
 - **IEEE Ethically Aligned Design:** Offers principles for human-centric AI.  
