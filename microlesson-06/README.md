@@ -10,6 +10,7 @@ Effective data collection and sourcing are crucial for building AI models:
 - **Data Augmentation:** Generating synthetic data to enhance dataset diversity.  
 - **Validation:** Ensuring the collected data aligns with project goals and quality standards.
 
+---
 #### **B. Ensuring Data Quality During Preprocessing**  
 Preprocessing ensures data is clean and ready for AI workflows:  
 - **Cleaning:** Removing duplicates, inconsistencies, and irrelevant entries.  
@@ -19,6 +20,7 @@ Preprocessing ensures data is clean and ready for AI workflows:
 
 Quality preprocessing directly impacts model performance and reliability.
 
+---
 #### **C. Data Storage and Archiving Best Practices**  
 Efficient storage and archiving ensure data is secure and accessible:  
 - **Structured Storage:** Using relational databases for structured data and data lakes for unstructured data.  
@@ -28,6 +30,7 @@ Efficient storage and archiving ensure data is secure and accessible:
 
 Proper storage supports long-term usability and data integrity.
 
+---
 #### **D. Managing Data Access and Permissions**  
 Access management ensures data security and compliance:  
 - **Role-Based Access Control (RBAC):** Assigning permissions based on user roles.  
@@ -37,6 +40,7 @@ Access management ensures data security and compliance:
 
 Controlled access reduces risks of unauthorized use and breaches.
 
+---
 #### **E. End-of-Life Considerations for AI Data**  
 Proper management of outdated or unused data minimizes risks:  
 - **Data Deletion Policies:** Securely erasing data no longer needed.  
@@ -46,6 +50,7 @@ Proper management of outdated or unused data minimizes risks:
 
 These steps protect data privacy and reduce storage costs.
 
+---
 #### **F. Version Control in AI Datasets**  
 Version control tracks changes in datasets over time, ensuring consistency:  
 - **Tracking Changes:** Recording modifications to data files and labels.  
@@ -55,6 +60,7 @@ Version control tracks changes in datasets over time, ensuring consistency:
 
 Version control ensures transparency and collaboration in AI development.
 
+---
 #### **G. Automating Data Lifecycle Processes with AI**  
 Automation simplifies and optimizes the data lifecycle:  
 - **Data Cleaning Automation:** AI tools detect and fix data inconsistencies.  
