@@ -104,25 +104,6 @@ Deloitte's Trustworthy AI Framework provides organizations with a structured app
 
 ---
 
-### F. Case Studies: Successful Applications
-
-#### 1. Financial Services
-- Applications in finance focus on transparency and fairness:
-  1. Implementing explainable AI for fraud detection and prevention.  
-  2. Ensuring fairness in credit scoring algorithms.  
-
-#### 2. Healthcare
-- Enhancing healthcare systems with ethical AI:
-  1. Privacy-focused AI systems for patient diagnostics.  
-  2. Deploying bias-free predictive models for equitable healthcare.  
-
-#### 3. Retail
-- Transforming retail experiences with trustworthy AI:
-  1. Personalizing customer experiences while ensuring privacy compliance.  
-  2. AI-driven inventory management for robust supply chains.  
-
----
-
 ### G. Deloitte’s Vision for the Future
 - Deloitte envisions a future where AI is trusted and responsibly deployed:
   1. Promoting cross-industry collaboration to establish governance standards.  
@@ -137,8 +118,10 @@ Deloitte's Trustworthy AI Framework provides organizations with a structured app
   1. Deloitte’s Trustworthy AI Framework is essential for developing ethical, reliable, and secure AI systems.  
   2. By embedding trust into AI development, organizations can mitigate risks and foster innovation.  
   3. The framework provides actionable strategies to navigate complex governance and security challenges in AI systems.  
-  4. Responsible AI adoption is key to building long-term success in a rapidly evolving technological landscape.  
-
+  4. Responsible AI adoption is key to building long-term success in a rapidly evolving technological landscape.
+ 
+### Final Reflection
+- **Quick Write:** In a few sentences, summarize how strong data governance and security contribute to trustworthy AI.
 
 [Source  ](https://eulisaroundtable.eu/eulisa_content/uploads/2024/11/deloitte-industry-roundtable-trustworthy-ai-framework.pdf)
 
