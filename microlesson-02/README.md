@@ -15,7 +15,7 @@ AI systems face various security threats, including:
 - 💸 **Ransomware:** Encrypting AI data and demanding payment for access.  
 - 🌐 **Distributed Denial of Service (DDoS):** Overwhelming systems with traffic to disrupt operations.  
 
-
+---
 #### **C. Encryption Techniques for AI Data**  
 Encryption ensures data remains secure during storage and transmission. Common techniques include:  
 - **Symmetric Encryption:** Using a single key for encryption and decryption.  
@@ -24,12 +24,14 @@ Encryption ensures data remains secure during storage and transmission. Common t
 
 Encryption ensures data confidentiality and reduces exposure to unauthorized access.
 
+---
 #### **D. Role of Firewalls and Access Controls**  
 Firewalls act as a barrier between internal networks and external threats, monitoring and controlling incoming and outgoing traffic. Access controls ensure only authorized users can access specific data or systems. Key practices include:  
 - **Role-Based Access Control (RBAC):** Assigning permissions based on user roles.  
 - **Multi-Factor Authentication (MFA):** Adding layers of verification for user access.  
 - **Network Firewalls:** Filtering traffic based on predetermined security rules.
 
+---
 #### **E. Securing Training and Inference Datasets**  
 Training and inference datasets are critical for AI models. Security measures include:  
 - **Data Anonymization:** Removing or obfuscating personal identifiers to ensure privacy.  
@@ -37,6 +39,7 @@ Training and inference datasets are critical for AI models. Security measures in
 - **Dataset Integrity Checks:** Verifying that data hasn’t been tampered with.  
 - **Backup and Recovery Plans:** Safeguarding against accidental data loss or corruption.
 
+---
 #### **F. Strategies for Monitoring and Incident Response**  
 Continuous monitoring and prompt response are essential for minimizing security risks:  
 - **Anomaly Detection:** Identifying unusual activity that could signal a breach.  
@@ -44,6 +47,7 @@ Continuous monitoring and prompt response are essential for minimizing security 
 - **Incident Response Plans:** Predefined steps to handle security breaches effectively.  
 - **Regular Audits:** Assessing the security posture of AI systems and updating defenses.
 
+---
 #### **G. Tools for Enhancing Data Security in AI Workflows**  
 Numerous tools and technologies can bolster data security, including:  
 - **Data Loss Prevention (DLP) Solutions:** Protecting sensitive data from being leaked or misused.  
@@ -52,16 +56,13 @@ Numerous tools and technologies can bolster data security, including:
 - **Endpoint Protection Platforms (EPP):** Safeguarding devices that interact with AI systems.  
 - **Secure Data Sharing Platforms:** Enabling encrypted and controlled data sharing among stakeholders.
 
+---
 ## **Discussion Activity: Securing Data Pipelines for ShopSmart**
 
 ### **Scenario**
 ShopSmart is an AI-driven retail business leveraging data pipelines for customer analytics, product recommendations, and fraud detection. Recently, the company experienced a potential breach where sensitive customer data might have been accessed by unauthorized users. This has raised concerns about the security of their AI systems, including training datasets, real-time inference, and model predictions.
 
 As a team, ShopSmart needs to enhance its data security measures to safeguard its AI pipelines from future risks and maintain customer trust.
-
----
-
-### **Discussion Prompts**
 
 1. **Identifying Vulnerabilities**
    - What parts of ShopSmart’s AI data pipeline are most vulnerable to threats like unauthorized access, data poisoning, or inference attacks?
