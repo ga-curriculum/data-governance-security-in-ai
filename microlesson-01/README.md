@@ -3,16 +3,18 @@
   <span class="subhead">Introduction to Data Governance in AI</span>
 </h1>
 
-#### **A. Definition and Scope of Data Governance in AI**  
+#### **A. 📌 Definition and Scope of Data Governance in AI**
 Data governance in AI refers to the process of managing the availability, usability, integrity, and security of data used in AI systems. It ensures that the data used throughout the AI lifecycle meets organizational standards and complies with legal and ethical requirements. The scope includes overseeing data quality, metadata management, regulatory compliance, and ethical usage, providing a foundation for trustworthy AI systems.
 
 ---
-#### **B. Key Principles and Frameworks**  
-Key principles of data governance in AI include:  
-- **Accountability:** Defining clear roles and responsibilities for data management.  
-- **Transparency:** Ensuring visibility into data usage and decision-making.  
-- **Data Integrity:** Maintaining accuracy and consistency of data.  
-- **Compliance:** Adhering to legal, regulatory, and ethical standards.  
+#### **B. 🏛️ Key Principles and Frameworks**
+
+Key principles of data governance in AI include:
+
+-   **🔹 Accountability:** Defining clear roles and responsibilities for data management.
+-   **🔹 Transparency:** Ensuring visibility into data usage and decision-making.
+-   **🔹 Data Integrity:** Maintaining accuracy and consistency of data.
+-   **🔹 Compliance:** Adhering to legal, regulatory, and ethical standards.
 
 Frameworks such as DAMA-DMBOK (Data Management Body of Knowledge) and FAIR principles (Findable, Accessible, Interoperable, Reusable) are commonly adapted for AI governance.
 
