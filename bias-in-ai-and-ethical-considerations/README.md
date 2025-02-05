@@ -3,6 +3,10 @@
   <span class="subhead">Bias in AI and Ethical Considerations</span>
 </h1>
 
+**Learning objective:** By the end of this lesson, you'll be able to describe bias in AI and ethical considerations, including types, sources, societal impact, detection methods, fairness, diversity, and ethical frameworks to promote responsible AI development.
+
+---
+
 #### **⚖️ A. Understanding Bias and Its Types in AI**
 
 Bias in AI refers to systematic and unfair favoritism or discrimination in AI models. Common types of bias include:

@@ -3,6 +3,9 @@
   <span class="subhead">Privacy Considerations in AI</span>
 </h1>
 
+**Learning objective:** By the end of this lesson, you'll be able to explain privacy considerations in AI, including regulatory compliance, anonymization, consent management, privacy-by-design, data protection, and real-world breaches, highlighting best practices and challenges.
+
+---
 #### **A. Understanding Privacy Laws and Regulations (e.g., GDPR, CCPA)**  
 Privacy laws establish guidelines for how organizations handle personal data. They emphasize:  
 - **User Consent:** Organizations must obtain explicit permission to collect and use data.  
@@ -88,4 +91,3 @@ These cases emphasize the importance of proactive privacy measures and the conse
 | **Risk Assessment**    | AI evaluates the potential risks associated with data breaches or security threats. | Assessing and prioritizing risks in cyber security management. |
 
 [AI Enhancements in Data Privacy and Security Table 2 Source 3 ](https://www.researchgate.net/publication/378288596_AI_in_Data_Privacy_and_Security)
-

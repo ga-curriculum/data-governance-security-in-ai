@@ -3,7 +3,11 @@
   <span class="subhead">Data Governance Frameworks for AI</span>
 </h1>
 
-## 🔍 A. Components of a Data Governance Framework  
+**Learning objective:** By the end of this lesson, you'll be able to describe AI data governance frameworks, focusing on ownership, quality, tools, and adaptability for secure and compliant AI systems.
+
+---
+
+### 🔍 A. Components of a Data Governance Framework  
 A data governance framework for AI includes key components such as:  
 - 🏛️ **Policies and Standards:** Guidelines for managing data.  
 - 👥 **Roles and Responsibilities:** Assigning tasks to stakeholders.  
@@ -14,7 +18,7 @@ These components provide structure for ensuring data integrity, security, and co
 
 ---
 
-## 📌 B. Establishing Data Ownership and Accountability  
+### 📌 B. Establishing Data Ownership and Accountability  
 Assigning clear ownership and accountability ensures data is managed effectively:  
 - 👤 **Data Owners:** Individuals responsible for data accuracy and usage.  
 - 🛡️ **Data Stewards:** Custodians who enforce governance policies.  
@@ -24,7 +28,7 @@ Clear ownership promotes responsible data handling and decision-making.
 
 ---
 
-## 🗂️ C. Role of Metadata Management  
+### 🗂️ C. Role of Metadata Management  
 Metadata management involves organizing and maintaining information about data:  
 - 📖 **Data Catalogs:** Indexing datasets for easy discovery.  
 - 🔄 **Lineage Tracking:** Monitoring data flow and transformations.  
@@ -34,7 +38,7 @@ Effective metadata management ensures data is accessible, traceable, and trustwo
 
 ---
 
-## ✅ D. Data Quality Management Principles  
+### ✅ D. Data Quality Management Principles  
 Ensuring data quality is critical for reliable AI outcomes. Principles include:  
 - 🎯 **Accuracy:** Data must be correct and error-free.  
 - 📋 **Completeness:** Data should be comprehensive for its intended use.  
@@ -45,7 +49,7 @@ High-quality data minimizes risks of biased or inaccurate AI predictions.
 
 ---
 
-## 🛠️ E. Governance Tools and Technologies  
+### 🛠️ E. Governance Tools and Technologies  
 Various tools and technologies support AI data governance:  
 - 🏛️ **Data Governance Platforms:** Centralized systems for managing governance policies.  
 - 🗂️ **Metadata Management Tools:** Automating metadata documentation and organization.  
@@ -56,7 +60,7 @@ These tools streamline governance processes and improve efficiency.
 
 ---
 
-## 🔄 F. Continuous Improvement in Governance Frameworks  
+### 🔄 F. Continuous Improvement in Governance Frameworks  
 Governance frameworks must evolve to stay effective:  
 - 🔁 **Feedback Loops:** Incorporating lessons learned from governance audits.  
 - 📈 **Regular Audits:** Periodically reviewing frameworks for gaps or inefficiencies.  
@@ -67,7 +71,7 @@ Continuous improvement ensures frameworks remain robust and adaptive.
 
 ---
 
-## 🚀 G. Adapting Frameworks to Evolving AI Technologies  
+### 🚀 G. Adapting Frameworks to Evolving AI Technologies  
 As AI evolves, governance frameworks must adapt:  
 - 🌐 **Dynamic Data Sources:** Managing real-time and streaming data.  
 - 🎭 **Multimodal AI Systems:** Addressing governance for diverse data types (e.g., text, images).  

@@ -3,6 +3,8 @@
   <span class="subhead">Deloitte's Trustworthy AI Framework</span>
 </h1>
 
+**Learning objective:** By the end of this lesson, you'll be able to explain Deloitte’s Trustworthy AI Framework, emphasizing privacy, transparency, fairness, accountability, security, and reliability.
+
 ## 🏛️ A. Overview of Deloitte’s Trustworthy AI Framework  
 Deloitte's Trustworthy AI Framework provides organizations with a structured approach to build AI systems that are ethical, reliable, and aligned with societal norms. It emphasizes embedding trust into every stage of the AI lifecycle.  
 
@@ -10,7 +12,7 @@ Deloitte's Trustworthy AI Framework provides organizations with a structured app
 - 🎯 **Purpose:** To ensure AI systems are human-centric and trustworthy.  
 - ⚖️ **Principles:** Privacy, transparency, fairness, accountability, robustness, safety, and responsibility.  
 
----
+
 
 ## 🔍 B. The Seven Core Dimensions of the Framework 
 
@@ -77,7 +79,7 @@ AI systems must safeguard against harm and protect against vulnerabilities.
 
 ---
 
-## 🏗️ C. Practical Applications of the Framework  
+### 🏗️ C. Practical Applications of the Framework  
 The framework provides actionable strategies to embed trust into AI systems across various industries:  
 - 📋 **Assessing organizational readiness for implementing trustworthy AI.**  
 - 🔗 **Embedding the seven dimensions into the AI lifecycle.**  
@@ -86,7 +88,7 @@ The framework provides actionable strategies to embed trust into AI systems acro
 
 ---
 
-## 🎯 D. Benefits of the Framework  
+### 🎯 D. Benefits of the Framework  
 Adopting Deloitte's Trustworthy AI Framework delivers numerous benefits:  
 - 🤝 **Building trust and confidence among users, stakeholders, and regulators.**  
 - ⚖️ **Ensuring compliance with legal frameworks (e.g., GDPR, AI Act).**  
@@ -95,7 +97,7 @@ Adopting Deloitte's Trustworthy AI Framework delivers numerous benefits:
 
 ---
 
-## ⚠️ E. Challenges in Implementation  
+### ⚠️ E. Challenges in Implementation  
 Common obstacles in applying the framework include:  
 - ⚖️ **Balancing innovation with ethical constraints.**  
 - 🔎 **Addressing biases and ensuring data quality.**  
@@ -104,7 +106,7 @@ Common obstacles in applying the framework include:
 
 ---
 
-## 🔮 G. Deloitte’s Vision for the Future  
+### 🔮 G. Deloitte’s Vision for the Future  
 Deloitte envisions a future where AI is trusted and responsibly deployed:  
 - 🤝 **Promoting cross-industry collaboration to establish governance standards.**  
 - 🛠️ **Enhancing trust in AI through innovative tools and processes.**  
@@ -113,8 +115,8 @@ Deloitte envisions a future where AI is trusted and responsibly deployed:
 
 ---
 
-## 📌 H. Conclusion  
-### **Key takeaways from Deloitte’s Trustworthy AI Framework:**  
+### 📌 H. Conclusion  
+#### **Key takeaways from Deloitte’s Trustworthy AI Framework:**  
 - 🏛️ **Deloitte’s Trustworthy AI Framework is essential for developing ethical, reliable, and secure AI systems.**  
 - 🔄 **By embedding trust into AI development, organizations can mitigate risks and foster innovation.**  
 - ✅ **The framework provides actionable strategies to navigate complex governance and security challenges in AI systems.**  
@@ -122,7 +124,7 @@ Deloitte envisions a future where AI is trusted and responsibly deployed:
 
 ---
 
-## ✍️ Final Reflection  
+### ✍️ Final Reflection  
 **Quick Write:** In a few sentences, summarize how strong data governance and security contribute to trustworthy AI.  
 
 📖 **Sources:**  
@@ -132,11 +134,11 @@ Deloitte envisions a future where AI is trusted and responsibly deployed:
 
 ---
 
-# 📌 Key Takeaways  
+### 📌 Key Takeaways  
 
-1️⃣ **Comprehensive Governance Framework:** A robust AI governance framework is crucial, encompassing data security, privacy, bias mitigation, and ethical considerations throughout the AI lifecycle.  
-2️⃣ **Data Security:** Prioritize data security measures, including encryption, access controls, and robust monitoring mechanisms, to protect sensitive AI data from breaches and misuse.  
-3️⃣ **Privacy by Design:** Integrate privacy considerations into the design and development of AI systems from the outset, ensuring compliance with relevant regulations (e.g., GDPR, CCPA).  
-4️⃣ **Bias Mitigation:** Actively identify and mitigate bias in AI datasets and algorithms to ensure fair and equitable outcomes for all individuals and groups.  
-5️⃣ **Transparency and Explainability:** Foster transparency in AI decision-making through explainable AI techniques and clear communication of AI-powered outcomes to stakeholders.  
-6️⃣ **Continuous Improvement:** Regularly review and update AI governance frameworks to adapt to evolving technologies, regulatory landscapes, and emerging ethical challenges.  
+- **Comprehensive Governance Framework:** A robust AI governance framework is crucial, encompassing data security, privacy, bias mitigation, and ethical considerations throughout the AI lifecycle.  
+- **Data Security:** Prioritize data security measures, including encryption, access controls, and robust monitoring mechanisms, to protect sensitive AI data from breaches and misuse.  
+- **Privacy by Design:** Integrate privacy considerations into the design and development of AI systems from the outset, ensuring compliance with relevant regulations (e.g., GDPR, CCPA).  
+- **Bias Mitigation:** Actively identify and mitigate bias in AI datasets and algorithms to ensure fair and equitable outcomes for all individuals and groups.  
+- **Transparency and Explainability:** Foster transparency in AI decision-making through explainable AI techniques and clear communication of AI-powered outcomes to stakeholders.  
+- **Continuous Improvement:** Regularly review and update AI governance frameworks to adapt to evolving technologies, regulatory landscapes, and emerging ethical challenges.  

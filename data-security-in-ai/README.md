@@ -3,6 +3,9 @@
   <span class="subhead">Data Security in AI</span>
 </h1>
 
+**Learning objective:** By the end of this lesson, you'll be able to describe AI data security, including threats, encryption, access controls, monitoring, and incident response to protect AI pipelines and ensure data integrity, confidentiality, and compliance.
+
+---
 #### **🔐 A. Importance of Securing AI Data Pipelines**
 
 AI data pipelines are the backbone of AI systems, encompassing data collection, preprocessing, model training, and deployment. Securing these pipelines ensures the integrity, confidentiality, and availability of data throughout its lifecycle. A breach in the pipeline can result in compromised models, incorrect predictions, or exposure of sensitive information, undermining the system's reliability and trustworthiness.
@@ -75,10 +78,10 @@ Numerous tools and technologies can bolster data security, including:
 -   🔹 **Endpoint Protection Platforms (EPP):** Safeguarding devices that interact with AI systems.
 -   🔹 **Secure Data Sharing Platforms:** Enabling encrypted and controlled data sharing among stakeholders.
 
-* * * * *
 
-**📝 Discussion: Securing Data Pipelines for ShopSmart**
------------------------------------------------------------------
+
+## **📝 Discussion: Securing Data Pipelines for ShopSmart**
+
 
 ### **📌 Scenario**
 

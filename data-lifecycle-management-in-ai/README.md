@@ -3,7 +3,11 @@
   <span class="subhead">Data Lifecycle Management in AI</span>
 </h1>
 
-## 📊 A. Data Collection and Sourcing Strategies  
+**Learning objective:** By the end of this lesson, you'll be able to describe AI data lifecycle management, including collection, preprocessing, storage, access control, versioning, and automation to ensure data security, quality, and compliance.
+
+---
+
+### 📊 A. Data Collection and Sourcing Strategies  
 Effective data collection and sourcing are crucial for building AI models:  
 - ⚖️ **Ethical Data Collection:** Adhering to legal and ethical standards during data acquisition.  
 - 🌍 **Diverse Sourcing:** Using multiple sources to minimize bias and improve robustness.  
@@ -12,7 +16,7 @@ Effective data collection and sourcing are crucial for building AI models:
 
 ---
 
-## 🛠️ B. Ensuring Data Quality During Preprocessing  
+### 🛠️ B. Ensuring Data Quality During Preprocessing  
 Preprocessing ensures data is clean and ready for AI workflows:  
 - 🧹 **Cleaning:** Removing duplicates, inconsistencies, and irrelevant entries.  
 - 📏 **Normalization:** Standardizing data to ensure uniformity across features.  
@@ -23,7 +27,7 @@ Quality preprocessing directly impacts model performance and reliability.
 
 ---
 
-## 🗄️ C. Data Storage and Archiving Best Practices  
+### 🗄️ C. Data Storage and Archiving Best Practices  
 Efficient storage and archiving ensure data is secure and accessible:  
 - 🏛️ **Structured Storage:** Using relational databases for structured data and data lakes for unstructured data.  
 - 🔐 **Encryption:** Securing stored data to protect against breaches.  
@@ -34,7 +38,7 @@ Proper storage supports long-term usability and data integrity.
 
 ---
 
-## 🔑 D. Managing Data Access and Permissions  
+### 🔑 D. Managing Data Access and Permissions  
 Access management ensures data security and compliance:  
 - 🏷️ **Role-Based Access Control (RBAC):** Assigning permissions based on user roles.  
 - 🎚️ **Granular Permissions:** Allowing specific access levels for different datasets.  
@@ -45,7 +49,7 @@ Controlled access reduces risks of unauthorized use and breaches.
 
 ---
 
-## 🗑️ E. End-of-Life Considerations for AI Data  
+### 🗑️ E. End-of-Life Considerations for AI Data  
 Proper management of outdated or unused data minimizes risks:  
 - ❌ **Data Deletion Policies:** Securely erasing data no longer needed.  
 - 📅 **Retention Policies:** Retaining data only as long as necessary for legal and operational requirements.  
@@ -56,7 +60,7 @@ These steps protect data privacy and reduce storage costs.
 
 ---
 
-## 🔄 F. Version Control in AI Datasets  
+### 🔄 F. Version Control in AI Datasets  
 Version control tracks changes in datasets over time, ensuring consistency:  
 - 📌 **Tracking Changes:** Recording modifications to data files and labels.  
 - 🏷️ **Dataset Tagging:** Labeling dataset versions for easy identification.  
@@ -67,7 +71,7 @@ Version control ensures transparency and collaboration in AI development.
 
 ---
 
-## 🤖 G. Automating Data Lifecycle Processes with AI  
+### 🤖 G. Automating Data Lifecycle Processes with AI  
 Automation simplifies and optimizes the data lifecycle:  
 - 🧹 **Data Cleaning Automation:** AI tools detect and fix data inconsistencies.  
 - 🔄 **Pipeline Management:** Automating data ingestion, transformation, and storage workflows.  

@@ -3,7 +3,9 @@
   <span class="subhead">Transparency and Explainability in AI</span>
 </h1>
 
-## 🔍 A. Importance of Explainability in AI Systems  
+**Learning objective:** By the end of this lesson, you'll be able to describe transparency and explainability in AI, including trust, compliance, model interpretation, communication, privacy balance, and real-world applications, highlighting challenges and best practices.
+
+### 🔍 A. Importance of Explainability in AI Systems  
 Explainability is critical for understanding how AI models make decisions:  
 - 🤝 **Trust Building:** Users and stakeholders trust AI systems more when decisions are interpretable.  
 - ⚖️ **Regulatory Compliance:** Many industries require explanations to meet legal standards (e.g., GDPR’s "right to explanation").  
@@ -12,7 +14,7 @@ Explainability is critical for understanding how AI models make decisions:
 
 ---
 
-## 🛠️ B. Methods to Ensure Transparency in AI Decision-Making  
+### 🛠️ B. Methods to Ensure Transparency in AI Decision-Making  
 Various methods promote transparency:  
 - 📊 **Feature Importance Analysis:** Identifying which inputs influenced a decision most.  
 - 🔄 **Model-Agnostic Methods:** Tools like LIME (Local Interpretable Model-agnostic Explanations) and SHAP (SHapley Additive exPlanations) explain predictions.  
@@ -21,7 +23,7 @@ Various methods promote transparency:
 
 ---
 
-## 📢 C. Communicating AI Decisions to Stakeholders  
+### 📢 C. Communicating AI Decisions to Stakeholders  
 Clear communication fosters understanding and trust among stakeholders:  
 - 📝 **Simplified Explanations:** Presenting technical information in a user-friendly manner.  
 - 📊 **Dashboards:** Interactive dashboards displaying model performance and decisions.  
@@ -30,7 +32,7 @@ Clear communication fosters understanding and trust among stakeholders:
 
 ---
 
-## 🔐 D. Balancing Transparency with Data Privacy  
+### 🔐 D. Balancing Transparency with Data Privacy  
 Transparency must not compromise user privacy:  
 - 🕵️ **Selective Disclosure:** Sharing only necessary explanations while safeguarding sensitive information.  
 - 🔄 **Anonymization Techniques:** Ensuring individual data cannot be identified in explanations.  
@@ -39,7 +41,7 @@ Transparency must not compromise user privacy:
 
 ---
 
-## 🛠️ E. Tools and Frameworks for AI Explainability  
+### 🛠️ E. Tools and Frameworks for AI Explainability  
 Several tools and frameworks enhance explainability:  
 - 🔄 **LIME and SHAP:** Widely used for interpreting black-box models.  
 - 🛠️ **What-If Tool:** A TensorFlow tool for exploring AI model behavior.  
@@ -48,7 +50,7 @@ Several tools and frameworks enhance explainability:
 
 ---
 
-## ⚠️ F. Challenges in Achieving Full Transparency  
+### ⚠️ F. Challenges in Achieving Full Transparency  
 Transparency in AI comes with challenges:  
 - 🤖 **Complexity of Models:** Deep learning models are inherently opaque and hard to interpret.  
 - ⚖️ **Trade-Offs:** Balancing transparency with accuracy or computational efficiency.  
@@ -57,7 +59,7 @@ Transparency in AI comes with challenges:
 
 ---
 
-## 📌 G. Use Cases Highlighting Transparency Benefits  
+### 📌 G. Use Cases Highlighting Transparency Benefits  
 Practical examples demonstrate the value of transparency:  
 - 🏥 **Healthcare Diagnostics:** Interpretable AI models help doctors understand and trust diagnostic recommendations.  
 - 💰 **Loan Approvals:** Transparent systems explain why a loan was approved or denied, reducing customer dissatisfaction.  
@@ -66,7 +68,7 @@ Practical examples demonstrate the value of transparency:
 
 ---
 
-# 📢 Discussion: Privacy in AI at ShopSmart  
+## 📢 Discussion: Privacy in AI at ShopSmart  
 
 ### **Scenario:**  
 As a reminder, ShopSmart leverages AI to analyze customer behavior, recommend products, and detect fraud. With operations spanning multiple countries, ShopSmart collects vast amounts of customer data, including purchase history, browsing patterns, and demographic information. Recently, the company has faced scrutiny from regulators over potential GDPR and CCPA compliance gaps, particularly around data anonymization and consent management.  
