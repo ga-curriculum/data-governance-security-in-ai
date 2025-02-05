@@ -12,7 +12,7 @@ Deloitte's Trustworthy AI Framework provides organizations with a structured app
 
 ---
 
-## 🔍 B. The Seven Core Dimensions of the Framework  
+## 🔍 B. The Seven Core Dimensions of the Framework 
 
 ### 1️⃣ Private  
 AI systems must respect user privacy and secure data.  
