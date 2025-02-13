@@ -22,28 +22,3 @@ This lesson covers AI data governance, security, privacy, bias mitigation, trans
 | [Deloitte's Trustworthy AI Framework](./deloittes-trustworthy-ai-framework/README.md) | 10 min | Explain Deloitte’s Trustworthy AI Framework, emphasizing privacy, transparency, fairness, accountability, security, and reliability.|
 | **Total content**                                   | 90 min |                                     |
 
-## References
-
-📖 [Reference Materials](./references/README.md)
-
-## Internal
-
-### Prerequisites
-- Intro to neural network + Overview of AI Architectures
-
-
-### Course landing pages
-
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/data-governance-security-in-ai/canvas-landing-pages/fallback.html)
-
-### Resources
-
-✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
-
-🎥 [Video Hub](./internal-resources/video-hub.md)
-
-🏗️ [Release Notes](./internal-resources/release-notes.md)
-
----
-
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
