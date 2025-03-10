@@ -2,65 +2,30 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-introductionToDataGovernanceInAi = new Template.Microlesson {
-  friendlyName = "Introduction to Data Governance in AI"
-  dirName = "introduction-to-data-governance-in-ai"
+setup = new Template.Microlesson {
+  friendlyName = "Setup"
+  dirName = "setup"
+  type = "Setup"
+  videoUrl = ""
+}
+
+microlesson01 = new Template.Microlesson {
+  friendlyName = "Data Governance Principles & Frameworks"
+  dirName = "microlesson-01"
   type = "Content"
   videoUrl = ""
 }
 
-dataSecurityInAi = new Template.Microlesson {
-  friendlyName = "Data Security in AI"
-  dirName = "data-security-in-ai"
+microlesson02 = new Template.Microlesson {
+  friendlyName = "Security & Privacy in AI"
+  dirName = "microlesson-02"
   type = "Content"
   videoUrl = ""
 }
 
-privacyConsiderationsInAi = new Template.Microlesson {
-  friendlyName = "Privacy Considerations in AI"
-  dirName = "privacy-considerations-in-ai"
-  type = "Content"
-  videoUrl = ""
-}
-
-biasInAiAndEthicalConsiderations = new Template.Microlesson {
-  friendlyName = "Bias in AI and Ethical Considerations"
-  dirName = "bias-in-ai-and-ethical-considerations"
-  type = "Content"
-  videoUrl = ""
-}
-
-dataGovernanceFrameworksForAi = new Template.Microlesson {
-  friendlyName = "Data Governance Frameworks for AI"
-  dirName = "data-governance-frameworks-for-ai"
-  type = "Content"
-  videoUrl = ""
-}
-
-dataLifecycleManagementInAi = new Template.Microlesson {
-  friendlyName = "Data Lifecycle Management in AI"
-  dirName = "data-lifecycle-management-in-ai"
-  type = "Content"
-  videoUrl = ""
-}
-
-transparencyAndExplainabilityInAi = new Template.Microlesson {
-  friendlyName = "Transparency and Explainability in AI"
-  dirName = "transparency-and-explainability-in-ai"
-  type = "Content"
-  videoUrl = ""
-}
-
-futureTrendsInAiGovernanceAndSecurity = new Template.Microlesson {
-  friendlyName = "Future Trends in AI Governance and Security"
-  dirName = "future-trends-in-ai-governance-and-security"
-  type = "Content"
-  videoUrl = ""
-}
-
-deloittesTrustworthyAiFramework = new Template.Microlesson {
-  friendlyName = "Deloitte's Trustworthy AI Framework"
-  dirName = "deloittes-trustworthy-ai-framework"
+microlesson03 = new Template.Microlesson {
+  friendlyName = "AI Ethics, Bias, & Transparency"
+  dirName = "microlesson-03"
   type = "Content"
   videoUrl = ""
 }
