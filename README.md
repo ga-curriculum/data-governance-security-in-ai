@@ -3,8 +3,6 @@
   <span class="headline">Data Governance and Security in AI</span>
 </h1>
 
-# AI Governance, Security, and Ethics
-
 ## About
 This module explores **AI data governance, security, privacy, and ethical considerations**. Learners will engage in **scenario-based discussions** to apply best practices in real-world contexts, ensuring AI systems are **trustworthy, compliant, and secure**.
 
