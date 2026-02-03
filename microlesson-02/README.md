@@ -4,10 +4,14 @@
 </h1>
 
 ## Learning Objective
-By the end of this lesson, learners will be able to **describe AI security threats, privacy challenges, and strategies to protect AI systems**.
+By the end of this lesson, learners will be able to:
+
+- Identify common AI security threats and privacy risks.
+- Explain their potential impact on AI systems and business outcomes.
+- Recommend mitigation strategies to secure AI models and protect sensitive data.
 
 ## Overview
-AI security and privacy concerns are critical in ensuring **trustworthy AI deployments**. Organizations must safeguard AI models against cyber threats, ensure data privacy compliance, and implement best practices for securing AI pipelines.
+AI security and privacy concerns are critical to ensuring **trustworthy AI deployments**. Organizations must protect AI models from cyber threats, ensure data privacy compliance, and implement best practices for securing AI pipelines.
 
 ---
 
@@ -64,12 +68,12 @@ AI security and privacy concerns are critical in ensuring **trustworthy AI deplo
 **Task:**
 1. **Identify three key security and privacy risks** that could arise.
 2. **Propose mitigation strategies** using security frameworks and privacy best practices.
-3. **Develop a client action plan** detailing recommendations for safe AI deployment.
+3. **Draft a client action plan** detailing recommendations for safe AI deployment.
 
 ---
 
 ## Key Takeaways
-- **AI security risks** include adversarial attacks, data poisoning, and unauthorized access.
+- **AI system face security risks** include adversarial attacks, data poisoning, and unauthorized access.
 - **Privacy challenges** include PII exposure, compliance issues, and inference attacks.
 - **Mitigation strategies** include encryption, monitoring, anonymization, and compliance frameworks.
 - **Organizations must integrate security and privacy measures** into AI lifecycle management.
