@@ -3,6 +3,18 @@
 <span class="subhead"> </span>
 </h1>
 
+## **Lesson Objectives**
+
+By the end of this lesson, students will be able to:
+
+- Define data governance in the context of AI systems.
+- Explain why governance is critical across the AI lifecycle.
+- Identify risks associated with poor data governance in AI.
+- Describe key governance principles, frameworks, and emerging trends.
+- Align AI governance practices with organizational and ethical goals.
+
+---
+
 #### **A. Definition and Scope of Data Governance in AI**
 
 Data governance in AI refers to the process of managing the availability, usability, integrity, and security of data used in AI systems. It ensures that the data used throughout the AI lifecycle meets organizational standards and complies with legal and ethical requirements. The scope includes overseeing data quality, metadata management, regulatory compliance, and ethical usage, providing a foundation for trustworthy AI systems.
@@ -20,11 +32,10 @@ Frameworks such as DAMA-DMBOK (Data Management Body of Knowledge) and FAIR princ
 
 #### **C. Role of Governance in AI Lifecycle Management**
 
-Governance plays a pivotal role across the AI lifecycle:
-
+Governance playsplays a critical role at every stage of the AI lifecycle, ensuring quality, fairness, and compliance from data ingestion to ongoing system monitoring:
 - **Data Collection:** Ensures data sources are ethical and reliable.
 - **Data Preprocessing:** Monitors data cleaning and transformation processes.
-- **Model Training:** Assesses dataset quality and prevents bias.
+- **Model Training:** Evaluates dataset quality, representativeness, and potential bias.
 - **Deployment:** Implements security measures for live AI systems.
 - **Monitoring:** Continuously evaluates system performance and compliance.
 
@@ -52,7 +63,7 @@ Traditional data governance practices often fall short in the context of AI due 
 
 #### **F. Alignment of AI Governance with Organizational Goals**
 
-To ensure alignment, organizations must:
+To ensure AI governance supports organizational success, organizations should:
 
 - **Define Objectives:** Set clear goals for AI initiatives.
 - **Integrate Governance:** Embed governance practices into AI workflows.
@@ -66,10 +77,10 @@ Governance should support innovation while ensuring compliance and ethical respo
 
 Emerging trends include:
 
-- **AI-Specific Regulations:** Development of laws tailored for AI technologies.
-- **Automated Governance Tools:** Using AI to monitor and enforce governance policies.
+- **AI-Specific Regulations:** Development of legislation tailored to AI systems.
+- **Automated Governance Tools:** Leveraging AI to monitor compliance and enforce governance policies.
 - **Ethical AI Initiatives:** Industry-wide efforts to promote responsible AI.
-- **Explainability Standards:** Increased focus on making AI decisions interpretable.
+- **Explainability Standards:** Growing emphasis on transparent and interpretable AI systems.
 - **Cross-Border Collaboration:** Harmonizing governance practices globally.
 - **AI and Blockchain:** Leveraging blockchain for data traceability.
 - **Continuous Learning:** Adapting governance to the rapid evolution of AI.
