@@ -5,7 +5,13 @@
 </h1>
 
 ## Learning Objective
-By the end of this lesson, learners will be able to **identify bias in AI, explain its societal impact, and evaluate methods for improving fairness and transparency in AI systems**.
+By the end of this lesson, learners will be able to:
+
+- Identify common sources of bias in AI systems.
+- Explain the societal and business impact of biased AI decisions.
+- Evaluate and recommend techniques to improve fairness, transparency, and trust in AI systems.
+
+---
 
 ## Overview
 Ethical AI development requires mitigating bias, ensuring transparency, and building trust in AI models. Organizations must proactively identify and address bias while implementing explainability techniques to enhance AI governance.
@@ -47,16 +53,16 @@ Ethical AI development requires mitigating bias, ensuring transparency, and buil
 
 **Task:**
 1. **Identify potential sources of bias** in the model’s training data and design.
-2. **Propose a fairness auditing strategy**, using XAI techniques and bias detection tools.
-3. **Develop a client briefing** on ethical AI implementation strategies.
+2. **Design a fairness auditing strategy**, using XAI techniques and bias detection tools.
+3. **Prepare a client briefing** on ethical AI implementation strategies.
 
 ---
 
 ## Key Takeaways
 - **AI bias can emerge from data, models, or user interactions**, leading to ethical concerns.
 - **Transparency & explainability** are crucial for building trust in AI.
-- **XAI tools and fairness audits** help detect and mitigate bias in AI models.
-- **Organizations must proactively assess and refine AI models** to ensure fairness and compliance.
+- **XAI tools and fairness audits** help detecting and mitigating bias in AI models.
+- **Organizations must proactively assess and refine AI models** ensuring fairness and compliance.
 
 
 
